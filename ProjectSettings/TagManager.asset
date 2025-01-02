@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - ShotGun
+  - LazerGun
+  - Enemy
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Room
+  - Player
+  - Projectile
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3690052179
+    locked: 0
+  - name: Wall
+    uniqueID: 340252667
+    locked: 0
+  - name: Extra
+    uniqueID: 2197884041
+    locked: 0
+  - name: Player
+    uniqueID: 3621933739
+    locked: 0
+  - name: Weapon
+    uniqueID: 2724402055
+    locked: 0
+  - name: UI
+    uniqueID: 409455949
+    locked: 0
